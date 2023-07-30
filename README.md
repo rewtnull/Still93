@@ -31,7 +31,7 @@ credits for the programming as I could not tell from what sources ChatGPT has pu
 I Want to send out a BIG thank you to all unknown people who through ChatGPT have contributed
 to this project!
 
-Also there is also a hidden social commentary, but I will let you figure that part out by
+There is also a hidden social commentary, but I will let you figure that part out by
 yourselves. 
 
 
