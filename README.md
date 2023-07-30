@@ -2,7 +2,7 @@ Still 93 - A Cyber AI Mega Demo released at Evoke 1993
 ------------------------------------------------------
 
 A Demo Scene production released at the Evoke Demo Party in Cologne,
-placed shared 10th or 11th place in the PC Demo competition.
+shared 10th place in the PC Demo competition.
 
 This is a digital art project that was worked on between early March and Late July of 2023.
 
