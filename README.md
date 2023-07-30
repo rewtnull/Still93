@@ -39,21 +39,15 @@ yourselves.
 Credits
 -------
 
-Graphics ... bOhEmE / Style
-Graphics ... Hellbeard / Divine Stylers
+Graphics ... bOhEmE / Style, Hellbeard / Divine Stylers
 
-Music ... sKOPE / Divine Stylers
-Music ... Goto80 / Divine Stylers
-Music ... Repe / Style
+Music ... sKOPE / Divine Stylers, Goto80 / Divine Stylers, Repe / Style
 
-Art Direction ... bOhEmE / Style
-Art Direction ... dMG / Divine Stylers
+Art Direction ... bOhEmE / Style, dMG / Divine Stylers
 
-Code ... Chatgpt V3.5 Free Research Preview (March-may Builds)
+Code ... ChatGPT v3.5 Free Research Preview (March-may Builds)
 
-Prompt Lamer ... dMG / Divine Stylers
-Timings & Params ... dMG / Divine Stylers
-Concept & Idea ... dMG / Divine Stylers
+Prompt Lamer, Timings & Params, Concept & Idea ... dMG / Divine Stylers
 
 
 
