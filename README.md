@@ -1,4 +1,4 @@
-Still 93 - A Cyber AI Mega Demo released at Evoke 1993
+Still 93 - A Cyber AI Mega Demo released at Evoke 2023
 ------------------------------------------------------
 
 A Demo Scene production released at the Evoke Demo Party in Cologne,
